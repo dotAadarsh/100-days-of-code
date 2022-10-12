@@ -9,8 +9,9 @@
 
 ## Algorithms
 
-### Binary Search
-
+ - [VisuAlgo.net/en](https://visualgo.net/en) - visualizing data structures and algorithms through animation
+ - Asymptotic analysis (Big-O notation) - [pythonds](https://runestone.academy/ns/books/published//pythonds/AlgorithmAnalysis/toctree.html) 
+ 
 ![differences-1](https://www.freecodecamp.org/news/content/images/2022/07/differences-1.png)
 Image Credit: [freeCodeCamp](https://www.freecodecamp.org/news/binary-search-in-python-with-examples/)
 - [Binary Search Algorithm in 100 Seconds | Video](https://youtu.be/MFhxShGxHWc) 
